@@ -16,7 +16,7 @@ Start with your first real slice of functionality.
 
 ## Your features
 
-- [ ] 1. **User Registration** - Register users with name, email, and password, including validation, duplicate email prevention, and secure password hashing.
+- [x] 1. **User Registration** - Register users with name, email, and password, including validation, duplicate email prevention, and secure password hashing.
 - [ ] 2. **User Authentication** - Implement login with email and password, JWT access-token generation, and authentication middleware for protected routes.
 - [ ] 3. **User Profile Management** - Retrieve and update the authenticated user's profile with proper validation and ownership protection.
 - [ ] 4. **Todo Creation** - Create todos with title, description, priority, optional due date, and authenticated user ownership.
